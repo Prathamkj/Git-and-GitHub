@@ -1,0 +1,62 @@
+About Git and GitHub -- Shraddha Didi
+1. Git is the version control system - it is a tool that helps to track changes in code -- git also tracks the history of the project
+
+2. GitHub -- a website that allows to store and manage their code using git
+-- folders also called Repository
+
+3. For changes in the Readme.md file you have to know about the HTML
+
+4. Configuring Git -- git config --global user.name "My Name"
+   git config --global user.email "Email"
+
+5. PS C:\Users\User> git config --global user.name "PrathamKj"
+PS C:\Users\User> git config --global user.email "prathamkj21@gmail.com"
+PS C:\Users\User> git config --list
+
+6. remote -- files in GitHub, local -- laptop or pc files
+
+7. system ke Andar copy Karna Hai to we use clone command - git clone<link>
+
+8. git status -- it will show all the changes
+
+9. After any change we have to commit the changes in the terminal -- git add filename
+and then commit -- git commit-m "Some message"
+
+10. git add. -- dot means all files
+
+11. git push -- means push all the files
+
+12. init command -- used to create a new git repo
+
+13. To rename the branch -- git branch-M main
+	//We can use -u also instead of -M 
+	// main is the new branch name
+     After that push -- git push origin main
+
+14. Git Branches -- git branch -- to check branch
+	// to change name -- git branch-M main
+	// git checkout <branch name> -- to navigate to another branch
+	// git checkout -b <New branch name> -- to create a new branch
+	// git branch -d <branch Name> -- to delete a branch
+	// to add a feature in a branch -- checkout karke edit karo files
+	   ko
+	// to now push new branch -- git push origin <new branch name>
+	/// To Merge 2 Branches -- git diff branch name -- shows the 			difference
+	// To merge 2 branches in GitHub -- 
+
+15. Pull command -- it is used to fetch and download from a remote repo(GitHub repository) and immediately update the local repo(our vs code)
+	// git pull origin main
+
+16. Resolving Merge Conflicts -- git merge 2ndBranch name
+
+17. Undoing Changes -- git reset <-file name->
+	// also git reset 
+	// commit changes for one commit -- git reset HEAD~1
+	// for many commits -- git reset 
+
+18. Fork -- Fork is a new repository that shares code and visibility with the original repository 
+// -- New repository banana jisme same code ho existing repo ka
+// 
+
+
+
