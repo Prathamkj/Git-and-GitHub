@@ -41,7 +41,7 @@ and then commit -- git commit-m "Some message"
 	// to add a feature in a branch -- checkout karke edit karo files
 	   ko
 	// to now push new branch -- git push origin <new branch name>
-	/// To Merge 2 Branches -- git diff branch name -- shows the 			difference
+	/// To Merge 2 Branches -- git diff branch name -- shows the difference
 	// To merge 2 branches in GitHub -- 
 
 15. Pull command -- it is used to fetch and download from a remote repo(GitHub repository) and immediately update the local repo(our vs code)
