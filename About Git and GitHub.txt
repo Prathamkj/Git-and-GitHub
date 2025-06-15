@@ -1,6 +1,8 @@
 About Git and GitHub -- Shraddha Didi
 1. Git is the version control system - it is a tool that helps to track changes in code -- git also tracks the history of the project
 
+git remote remove origin ---> To Remove the connceted repository with your VS Code Project
+
 2. GitHub -- a website that allows to store and manage their code using git
 -- folders also called Repository
 
